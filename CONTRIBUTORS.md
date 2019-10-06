@@ -22,3 +22,5 @@
 * [Mitarth Jain](https://github.com/mitarthjain)
 
 * [Anukriti Jha](https://github.com/anukritijha246)
+
+* [Azzam Jafri](https://github.com/azzamjafri)
